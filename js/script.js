@@ -6,7 +6,7 @@ const app = createApp({
   data() {
     return {
       title: "ci si diverte con Vue",
-      image: "neom-QZGW6t70IsI-unsplash.jpg",
+      image: "img/neom-QZGW6t70IsI-unsplash.jpg",
     };
   },
 });
